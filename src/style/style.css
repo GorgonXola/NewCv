@@ -31,7 +31,7 @@ li::before  {
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url("/src/img/doti.png");
+    background-image: url("../img/doti.png");
     background-size: contain;
     background-repeat: no-repeat;
     margin-right: 8px;

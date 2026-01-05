@@ -1,17 +1,17 @@
 @font-face {
     font-family: "Roboto-bold";
-    src: url("./src/fonts/Roboto/static/Roboto-Bold.ttf") format("truetype");
+    src: url("../fonts/Roboto/static/Roboto-Bold.ttf") format("truetype");
     font-weight: 100;
 }
 
 @font-face {
     font-family: "Roboto-medium";
-    src: url("./src/fonts/Roboto/static/Roboto-Medium.ttf") format("truetype");
+    src: url("../fonts/Roboto/static/Roboto-Medium.ttf") format("truetype");
     font-weight: 100;
 }
 
 @font-face {
     font-family: "Roboto-light";
-    src: url("./src/fonts/Roboto/static/Roboto-Light.ttf") format("truetype");
+    src: url("../fonts/Roboto/static/Roboto-Light.ttf") format("truetype");
     font-weight: 100;
 }
