@@ -52,7 +52,7 @@ li::before  {
     content: "";
     width: 1.5rem;
     height: 1.5rem;
-    background-image: url("./src/img/dot.png");
+    background-image: url("../img/dot.png");
     background-size: contain;
     background-repeat: no-repeat;
     flex-shrink: 0;
@@ -75,7 +75,7 @@ li::before  {
     top: 0;
     width: 35px;
     height: 100vh;
-    background: url("./src/img/frag.png") repeat-y;
+    background: url("../img/frag.png") repeat-y;
     background-size: 35px 171px;
     z-index: -1;
 }
@@ -107,7 +107,7 @@ li::before  {
     margin: 1rem 3rem;
     width: 180px;
     height: 220px;
-    background: url("./src/img/me.jpeg") no-repeat;
+    background: url("../img/me.jpeg") no-repeat;
     background-size: cover;
     background-position: center;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
